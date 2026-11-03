@@ -36,3 +36,11 @@ TSA Security Directive Pipeline-2021-02 (incident response/exercise requirements
 ## License
 
 MIT — see [LICENSE](LICENSE).
+
+## Interactive project dashboard (November 2026)
+
+- **[Open this project's public interactive explorer](https://arsh-project-lab.vercel.app/utility-tabletop-exercise-program/index.html)**
+- **[Run the standalone HTML locally](dashboard/index.html)** (no account or service required)
+- **[Open the complete public Project Lab](https://arsh-project-lab.vercel.app/)**
+
+Walk through the fictional incident-response inject timeline. Source-linked sample data is embedded for offline inspection. Search, group filters and CSV export work locally; checklist review marks (where available) are browser-local only. The page is not a live backend, and changes in this repository will require a separate Vercel deployment until a Git integration is enabled. [Dashboard validation source](tests/dashboard_ui.test.mjs).
