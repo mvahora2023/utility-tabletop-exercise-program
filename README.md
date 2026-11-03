@@ -1,6 +1,6 @@
 # Utility Tabletop Exercise (TTX) Program
 
-A complete Tabletop Exercise program — charter, scenario, facilitator guide, and after-action report template — built for a fictional regulated utility, **Keystone Gas & Electric**, to demonstrate incident-response exercise design and facilitation skills for a Cybersecurity Senior GRC Analyst role.
+A tabletop exercise *design package* comprising a charter, scenario, facilitator guide, and after-action report template for fictional utility **Keystone Gas & Electric**. It demonstrates exercise planning and documentation, not evidence that an actual multi-person exercise was conducted.
 
 > **Portfolio Disclosure:** Self-directed training project. "Keystone Gas & Electric" and "IRON CRANE" are fictional.
 
